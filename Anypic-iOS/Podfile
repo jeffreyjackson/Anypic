@@ -2,6 +2,8 @@ source 'https://github.com/CocoaPods/Specs.git'
 
 workspace 'Anypic'
 
+use_frameworks!
+
 pod 'Parse'
 pod 'ParseFacebookUtils'
 pod 'ParseCrashReporting'
